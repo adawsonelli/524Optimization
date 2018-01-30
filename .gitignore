@@ -1,0 +1,9 @@
+#file formats
+*.txt
+*.arff
+*.png
+*.zip
+*.pyc
+*.PDF
+*.pdf
+*checkpoint.ipynb
